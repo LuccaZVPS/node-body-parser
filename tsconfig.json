@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+   
+    "target": "es2016",
+    "experimentalDecorators": true,
+    "module": "commonjs",
+    "declaration": true,
+    "outDir": "./build",
+    "esModuleInterop": true ,
+    "forceConsistentCasingInFileNames": true ,
+    "skipLibCheck": true 
+  },
+  "include": ["lib/**/*.ts"],
+}
